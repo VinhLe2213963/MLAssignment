@@ -1,5 +1,7 @@
 # MLAssignment
 
+# Data
+
 # Cách hiện thực
 
 Dự án này trình bày cách triển khai thuật toán PCA để giảm chiều dữ liệu và sau đó sử dụng Logistic Regression và một phương pháp tiếp cận khác là SVM cho bài toán phân loại MNIST. Toàn bộ quá trình được thực hiện trong file Jupyter Notebook (`pca_and_svm.ipynb`).
