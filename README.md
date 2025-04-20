@@ -35,6 +35,7 @@ Notebook này hướng dẫn từng bước thực hiện:
 *   Scikit-learn 
 *   Numpy
 *   Matplotlib / Seaborn
+*   Thundersvm
 
 ## Dữ liệu
 
