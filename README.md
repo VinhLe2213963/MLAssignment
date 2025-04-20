@@ -1,5 +1,16 @@
 # MLAssignment
 
+## Phân chia công việc
+
+| STT | Họ và tên           | MSSV    | Vai trò                                                                                                                                  | Đóng góp |
+| --- | ------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| 1   | Lê Trường Thống   | 2213338 | Phân tích dữ liệu + CNN                                                                                            | 100%               |
+| 2   | Kiều Tâm Hậu        | 2210961 | Support Vector Machine                                                                                        | 100%                 |
+| 3   | Lê Hoàng Khánh Vinh | 2213963 | PCA + Logistics Regression                                                                                        | 100%                 |
+| 4   | Lê Quốc Huy | 2211194 | Phân tích dự liệu                                                                                        | 100%                 |
+
+# Giới thiệu đề tài
+
 # Data
 
 # Cách hiện thực
