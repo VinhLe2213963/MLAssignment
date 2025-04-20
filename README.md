@@ -18,7 +18,7 @@ Trong bài tập lớn này, nhóm lựa chọn sử dụng tập dữ liệu **
 Cụ thể, tập dữ liệu **MNIST** được chia thành hai phần:
 - Tập huấn luyện (training set) với 60.000 mẫu,
 - Tập kiểm tra (test set) với 10.000 mẫu.
-- 
+
 Mỗi mẫu là một ảnh grayscale có kích thước 28x28 pixel, với mỗi pixel mang giá trị nguyên trong khoảng từ 0 đến 255. Giá trị pixel càng thấp thì màu sắc càng tối (0 là đen hoàn toàn), ngược lại giá trị càng cao thì màu càng sáng (255 là trắng hoàn toàn). Nhờ được gán nhãn đầy đủ, mỗi ảnh đều đi kèm với thông tin về chữ số tương ứng, tạo điều kiện thuận lợi cho việc huấn luyện và đánh giá mô hình theo phương pháp supervised learning.
 
 Tuy nhiên, do đặc điểm của chữ viết tay, dữ liệu trong MNIST chứa nhiều mẫu chữ số có hình dạng không rõ ràng, dễ gây nhầm lẫn — ví dụ giữa các chữ số như "1" và "7" hoặc "5" và "8". Chính vì vậy, trước khi lựa chọn mô hình học máy, nhóm đã thực hiện các phân tích dữ liệu sơ bộ nhằm hiểu rõ hơn về đặc điểm của tập dữ liệu, xác định những mẫu dễ gây nhầm lẫn và đánh giá sự phân bố dữ liệu. Các phân tích này được thực hiện trong file `data_analysis.ipynb`.
