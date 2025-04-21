@@ -25,7 +25,7 @@ Tuy nhiên, do đặc điểm của chữ viết tay, dữ liệu trong MNIST ch
 
 # Cách hiện thực
 
-Dự án này trình bày cách triển khai thuật toán PCA để giảm chiều dữ liệu và sau đó sử dụng Logistic Regression và một phương pháp tiếp cận khác là SVM cho bài toán phân loại MNIST. Toàn bộ quá trình được thực hiện trong file Jupyter Notebook (`pca_and_svm.ipynb`).
+Dự án này trình bày cách triển khai thuật toán PCA để giảm chiều dữ liệu và sau đó sử dụng Logistic Regression và một phương pháp tiếp cận khác là SVM cho bài toán phân loại MNIST. Toàn bộ quá trình được thực hiện trong file Jupyter Notebook (`implementation.ipynb`).
 
 Ngoài các thuật toán, mô hình trước đó, phần mở rộng của bài tập lớn này là mạng nơ-ron tích chập (Convolutional Neutral Network - CNN) được sử dụng để nhận diện hình ảnh, được hiện thực trong file Python (`convolution_nn.py`). 
 
@@ -53,7 +53,7 @@ Notebook này hướng dẫn từng bước thực hiện:
 
 ## Dữ liệu
 
-Notebook này có thể sử dụng tập dữ liệu MNIST được tải trực tiếp trong code. Vui lòng kiểm tra các cell đầu tiên của notebook (`pca_and_svm.ipynb`) để biết chi tiết về nguồn dữ liệu và cách tải/cung cấp dữ liệu.
+Notebook này có thể sử dụng tập dữ liệu MNIST được tải trực tiếp trong code. Vui lòng kiểm tra các cell đầu tiên của notebook (`implementation.ipynb`) để biết chi tiết về nguồn dữ liệu và cách tải/cung cấp dữ liệu.
 
 Có thể sử dụng dataset thủ công dạng (`.csv`) được cung cấp sẵn trong file nén (`mnist_data.zip`). Cần sử dụng phương thức `read_csv` của thư viện Pandas để đọc được các file dữ liệu này.
 
