@@ -1,14 +1,5 @@
 # MLAssignment
 
-## Phân chia công việc
-
-| STT | Họ và tên           | MSSV    | Vai trò                                                                                                                                  | Đóng góp |
-| --- | ------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| 1   | Lê Trường Thống   | 2213338 | Phân tích dữ liệu + CNN                                                                                            | 100%               |
-| 2   | Kiều Tâm Hậu        | 2210961 | Support Vector Machine                                                                                        | 100%                 |
-| 3   | Lê Hoàng Khánh Vinh | 2213963 | PCA + Logistics Regression                                                                                        | 100%                 |
-| 4   | Lê Quốc Huy | 2211194 | Phân tích dữ liệu                                                                                        | 100%                 |
-
 # Giới thiệu đề tài
 
 Trong lĩnh vực thị giác máy tính và nhận dạng hình ảnh, việc xử lý và phân loại dữ liệu hình ảnh có độ phân giải cao là một thách thức đáng kể, đòi hỏi các phương pháp hiệu quả trong việc giảm chiều dữ liệu và xây dựng mô hình phân loại chính xác. Tập dữ liệu MNIST – bao gồm các hình ảnh chữ số viết tay từ 0 đến 9 – là một trong những bộ dữ liệu tiêu chuẩn được sử dụng rộng rãi để đánh giá hiệu quả của các thuật toán học máy trong bài toán phân loại hình ảnh.
